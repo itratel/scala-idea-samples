@@ -1,4 +1,4 @@
-package scala.com.itratel.collection.list
+package com.itratel.collection.list
 
 import scala.collection.mutable.ListBuffer
 

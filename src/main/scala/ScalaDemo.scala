@@ -1,5 +1,3 @@
-package scala
-
 import java.util.concurrent.ThreadLocalRandom
 
 object ScalaDemo {
