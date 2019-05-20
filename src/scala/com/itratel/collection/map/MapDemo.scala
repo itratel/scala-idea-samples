@@ -1,4 +1,4 @@
-package scala.collection.map
+package scala.com.itratel.collection.map
 
 import java.util.concurrent.{ConcurrentHashMap, ThreadLocalRandom}
 
